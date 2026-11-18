@@ -1,0 +1,542 @@
+{
+  "Levels": [
+    {
+      "IdLevel": 1,
+      "Name": "Básico - Fundamentos e Iniciación"
+    },
+    {
+      "IdLevel": 2,
+      "Name": "Intermedio - Operativa, Estrategias e Indicadores"
+    },
+    {
+      "IdLevel": 3,
+      "Name": "Avanzado - Trading Institucional, Wyckoff y Order Flow"
+    }
+  ],
+  "Categories": [
+    {
+      "IdCategory": 8,
+      "Name": "GESTIÓN DE RIESGO Y MONEY MANAGEMENT"
+    }
+  ],
+  "Tags": [
+    { "IdTag": 1, "Name": "Criptomonedas" },
+    { "IdTag": 2, "Name": "Bitcoin (BTC)" },
+    { "IdTag": 3, "Name": "Altcoins y Altseason" },
+    { "IdTag": 4, "Name": "LowCaps y MicroCaps" },
+    { "IdTag": 5, "Name": "Stablecoins" },
+    { "IdTag": 6, "Name": "Bolsa de Valores y Acciones" },
+    { "IdTag": 7, "Name": "Índices Bursátiles (S&P 500 / Nasdaq)" },
+    { "IdTag": 8, "Name": "Forex y Divisas (EUR/USD)" },
+    { "IdTag": 9, "Name": "Materias Primas y Oro (XAU/USD)" },
+    { "IdTag": 10, "Name": "Trading Spot (Al Contado)" },
+    { "IdTag": 11, "Name": "Trading de Futuros y Derivados" },
+    { "IdTag": 12, "Name": "Contratos Perpetuos e Inversos" },
+    { "IdTag": 13, "Name": "ETFs y Fondos Indexados" },
+    { "IdTag": 14, "Name": "Análisis Técnico" },
+    { "IdTag": 15, "Name": "Análisis Fundamental" },
+    { "IdTag": 16, "Name": "Análisis On-Chain y Tokenomics" },
+    { "IdTag": 17, "Name": "Metodología Wyckoff" },
+    { "IdTag": 18, "Name": "Smart Money Concepts (SMC)" },
+    { "IdTag": 19, "Name": "Order Flow y Tape Reading" },
+    { "IdTag": 20, "Name": "Order Book y Market Depth" },
+    { "IdTag": 21, "Name": "Liquidez e Imbalances" },
+    { "IdTag": 22, "Name": "Acción del Precio (Price Action)" },
+    { "IdTag": 23, "Name": "Estructura de Mercado (BOS / CHoCH)" },
+    { "IdTag": 24, "Name": "Teoría de Dow" },
+    { "IdTag": 25, "Name": "Ley de Oferta y Demanda" },
+    { "IdTag": 26, "Name": "Tendencias y Fractalidad" },
+    { "IdTag": 27, "Name": "Correlación de Activos" },
+    { "IdTag": 28, "Name": "Volatilidad y Sesiones de Mercado" },
+    { "IdTag": 29, "Name": "Manipulación Institucional (Composite Man)" },
+    { "IdTag": 30, "Name": "Calendario Macroeconómico y Noticias" },
+    { "IdTag": 31, "Name": "Política Monetaria y Tipos de Interés" },
+    { "IdTag": 32, "Name": "Tipos de Órdenes (Limit / Market / Stop)" },
+    { "IdTag": 33, "Name": "Posiciones Long y Short" },
+    { "IdTag": 34, "Name": "Stop Loss, Take Profit y Break Even" },
+    { "IdTag": 35, "Name": "Trailing Stop y Gestión Dinámica" },
+    { "IdTag": 36, "Name": "Velas Japonesas y Patrones" },
+    { "IdTag": 37, "Name": "Rutina y Plan de Trading" },
+    { "IdTag": 38, "Name": "Cuenta Demo y Simulación" },
+    { "IdTag": 39, "Name": "Backtesting y Auditoría Operativa" },
+    { "IdTag": 40, "Name": "Gestión de Riesgo y Money Management" },
+    { "IdTag": 41, "Name": "Apalancamiento y Margen" },
+    { "IdTag": 42, "Name": "Control de Drawdown" },
+    { "IdTag": 43, "Name": "Psicotrading y Control Emocional" },
+    { "IdTag": 44, "Name": "FOMO y FUD" },
+    { "IdTag": 45, "Name": "Ciclos de Mercado y Bullrun" },
+    { "IdTag": 46, "Name": "Dominancia de Bitcoin (BTC.D)" },
+    { "IdTag": 47, "Name": "Market Cap y Supply (FDV)" },
+    { "IdTag": 48, "Name": "Estrategia DCA y Holding" },
+    { "IdTag": 49, "Name": "Scalping" },
+    { "IdTag": 50, "Name": "Day Trading e Intradía" },
+    { "IdTag": 51, "Name": "Swing Trading" },
+    { "IdTag": 52, "Name": "Wallets y Autocustodia" },
+    { "IdTag": 53, "Name": "Regulación, MiCA y Fiscalidad" },
+    { "IdTag": 54, "Name": "Inteligencia Artificial y ChatGPT" },
+    { "IdTag": 55, "Name": "Bots de Trading y Automatización" },
+    { "IdTag": 56, "Name": "Exchanges y Brokers (Bitget / Bybit / SimpleFX)" },
+    { "IdTag": 57, "Name": "Terminales de Trading (TealStreet / TensorCharts / Aggr)" },
+    { "IdTag": 58, "Name": "TradingView y Screeners" },
+    { "IdTag": 59, "Name": "Open Interest y Funding Rate" },
+    { "IdTag": 60, "Name": "Fear & Greed Index y Sentimiento" },
+    { "IdTag": 61, "Name": "Volume Profile (POC / VAH / VAL)" },
+    { "IdTag": 62, "Name": "Medias Móviles (EMA / SMA)" },
+    { "IdTag": 63, "Name": "Indicador RSI y Divergencias" },
+    { "IdTag": 64, "Name": "Indicador VWAP" },
+    { "IdTag": 65, "Name": "Mapas de Liquidaciones y Supertrend" }
+  ],
+  "Videos": [
+    {
+      "IdVideo": 129,
+      "Title": "Risk & Money Management",
+      "Url": "https://youtu.be/Ni6Nvxl1ID0",
+      "Description": "Pilar fundamental del curso de Gestión de Riesgo y Gestión Monetaria (Risk & Money Management). Explica por qué la preservación del capital es la regla número uno del trading profesional, cómo definir el capital de riesgo total de tu cuenta, el porcentaje de riesgo máximo por operación (0.5% a 2%), el límite de pérdida máxima diaria y semanal, y la relación matemática entre el Ratio Riesgo/Beneficio (Risk/Reward Ratio) y la tasa de acierto (Win Rate) para alcanzar la rentabilidad.",
+      "Duration": 1050,
+      "Channel": "ScottFDX",
+      "Viewed": 14900,
+      "IdLevel": 1,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 130,
+      "Title": "Apalancamiento Explicado",
+      "Url": "https://www.youtube.com/watch?v=zab-8-M2yJw&t",
+      "Description": "Explicación matemática y operativa de qué es realmente el Apalancamiento Financiero (Leverage) en el trading de futuros y CFDs, desmitificando el miedo o el uso irresponsable de 50x o 100x. Demuestra con ejemplos numéricos la diferencia entre el Margen Inicial aportado, el Valor Nocional total de la posición, el Precio de Liquidación en Margen Aislado vs Margen Cruzado, y por qué el apalancamiento no aumenta tu pérdida en dólares si calculas el tamaño de posición en base a tu Stop Loss.",
+      "Duration": 820,
+      "Channel": "ZCoinTV",
+      "Viewed": 16200,
+      "IdLevel": 1,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 131,
+      "Title": "Cuánto Apalancamiento usar",
+      "Url": "https://youtu.be/2Farzm-iUXk?si=IEoTgdTgkHonPNTL",
+      "Description": "Guía práctica para saber exactamente cuánto apalancamiento configurar en cada operación según la distancia porcentual a tu Stop Loss y tu nivel de experiencia. Explica la diferencia entre el apalancamiento seleccionado en la barra del exchange y el Apalancamiento Real Efectivo sobre el total de tu cuenta, enseñando cómo asegurarte siempre de que el Precio de Liquidación quede mucho más lejos que tu nivel de Stop Loss técnico.",
+      "Duration": 640,
+      "Channel": "ZCoinTV",
+      "Viewed": 11300,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 132,
+      "Title": "Gestión Operativa",
+      "Url": "https://youtu.be/UlS40bsc9l8",
+      "Description": "Protocolo de Gestión Operativa desde el instante en que se ejecuta una orden hasta su cierre definitivo. Aborda cuándo mantener una posición pasivamente dejando que el precio trabaje y cuándo intervenir activamente: toma de parciales en el primer objetivo de liquidez (TP1 a ratio 1:1 o en el POC del volumen), movimiento del Stop Loss a Break Even tras un quiebre estructural a favor, y cierre anticipado si aparece absorción institucional en contra.",
+      "Duration": 890,
+      "Channel": "ScottFDX",
+      "Viewed": 6450,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 133,
+      "Title": "Cómo Perder Menos y Ganar Más",
+      "Url": "https://youtu.be/QAXiPOoI5do",
+      "Description": "Técnicas de optimización estadística para cortar las pérdidas rápidamente y maximizar el recorrido de las operaciones ganadoras (Asimetría Positiva). Analiza cómo reducir pérdidas innecesarias eliminando el hábito de mover el Stop Loss en contra o promediar a la baja en futuros sin plan, y cómo ganar más mediante entradas refinadas en zonas de descuento con órdenes Limit y dejando correr un porcentaje de la posición (Runner) en días tendenciales.",
+      "Duration": 770,
+      "Channel": "ScottFDX",
+      "Viewed": 5890,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 134,
+      "Title": "Análisis de Operaciones",
+      "Url": "https://youtu.be/uZXBRF9VazA",
+      "Description": "Cómo auditar, registrar y analizar tus propias operaciones en un Diario o Bitácora de Trading (Trading Journal) para encontrar fugas de capital y mejorar tu sistema. Enseña a clasificar los trades no por si ganaron o perdieron dinero, sino por si cumplieron el plan al 100% (Buen Trade vs Mal Trade), evaluando métricas clave como el Profit Factor, Win Rate por activo y por horario, Ratio R múltiplo promedio y máximo Drawdown.",
+      "Duration": 910,
+      "Channel": "ZCoinTV",
+      "Viewed": 4720,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 135,
+      "Title": "Stop Loss - Tutorial Completo",
+      "Url": "https://youtu.be/ttXrii_inbw",
+      "Description": "Tutorial integral sobre el uso técnico y estratégico del Stop Loss. Explica que el Stop Loss nunca debe colocarse por un monto arbitrario de dinero o porcentaje fijo, sino detrás del nivel técnico exacto que invalida tu hipótesis de análisis (por debajo de la mecha del Spring/barrido de liquidez o detrás del Order Block). Además, diferencia entre Stop Loss a Mercado (garantiza la salida inmediata) y Stop Loss Límite (evita malvender en mechas rápidas pero corre riesgo de no ejecutarse).",
+      "Duration": 850,
+      "Channel": "ScottFDX",
+      "Viewed": 9840,
+      "IdLevel": 1,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 136,
+      "Title": "Break Even, Stop Profit y Trailing Stop",
+      "Url": "https://youtu.be/8RNwV2lYD8c?si=_4q6_SLvn1UzKyYD",
+      "Description": "Guía detallada sobre las tres herramientas de protección de ganancias una vez que la operación está en positivo: 1) Break Even (mover el Stop Loss al precio de entrada más comisiones para eliminar todo riesgo de pérdida), 2) Stop Profit (subir o bajar manualmente el Stop Loss detrás de cada nuevo mínimo o máximo estructural - HL/LH asegurando beneficio), y 3) Trailing Stop automático por distancia porcentual o de puntos en el exchange.",
+      "Duration": 720,
+      "Channel": "ZCoinTV",
+      "Viewed": 8120,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 137,
+      "Title": "Sacar Profit y Cubrir Posiciones",
+      "Url": "https://youtu.be/C-XoyndvPyQ",
+      "Description": "Estrategias profesionales para la toma de beneficios (Take Profit escalonado) y cobertura de posiciones (Hedging). Explica dónde situar los niveles de Take Profit (nodos de alto volumen HVN, POC, piscinas de liquidez opuestas e imbalances), cómo dividir el cierre de la posición en parciales (por ejemplo 50% en TP1, 30% en TP2 y 20% en TP3), y cómo cubrir una cartera de criptomonedas en Spot abriendo un Short 1x en futuros para congelar el valor en dólares durante caídas.",
+      "Duration": 860,
+      "Channel": "ScottFDX",
+      "Viewed": 5430,
+      "IdLevel": 3,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 138,
+      "Title": "Cálculo de Riesgo completo",
+      "Url": "https://youtu.be/PTN7hsgIK0E",
+      "Description": "Lección matemática paso a paso para calcular el tamaño exacto de posición (Position Sizing en monedas, contratos o lotes) antes de abrir cualquier operación. Enseña la fórmula universal: Tamaño de Posición = Riesgo Monetario en Dólares (ej. 1% de la cuenta) / Distancia Porcentual desde el Precio de Entrada hasta el Stop Loss (incluyendo las comisiones de apertura y cierre del exchange).",
+      "Duration": 790,
+      "Channel": "ZCoinTV",
+      "Viewed": 12450,
+      "IdLevel": 1,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 139,
+      "Title": "Cálculo de Riesgo con ejemplos",
+      "Url": "https://youtu.be/Nu_vS-pja8E",
+      "Description": "Ejercicios prácticos en vivo aplicando la fórmula de cálculo de riesgo y tamaño de posición directamente sobre TradingView (usando la herramienta de Posición Larga y Corta) y la calculadora del exchange Bitget/Bybit. Muestra ejemplos con cuentas de distinto tamaño ($100, $1,000 y $10,000) tanto en entradas simples como en entradas divididas o promediadas dentro de una zona de liquidez.",
+      "Duration": 680,
+      "Channel": "ZCoinTV",
+      "Viewed": 7890,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 140,
+      "Title": "Gestión de Inversiones Arriesgadas",
+      "Url": "https://youtu.be/MJ0yB0op9jM",
+      "Description": "Protocolo de gestión de capital y riesgo asimétrico para inversiones de alta volatilidad (LowCaps, preventas, narrativas emergentes o trades especulativos). Explica cómo estructurar la cartera tipo Barbell (mayor parte del capital en activos seguros y una fracción estrictamente limitada del 5%-10% dividida en múltiples apuestas asimétricas), reduciendo el riesgo por trade al 0.25%-0.5% y retirando el capital inicial tras duplicar la inversión.",
+      "Duration": 564,
+      "Channel": "ScottFDX",
+      "Viewed": 2274,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 141,
+      "Title": "No cometas este error nunca más (SL)",
+      "Url": "https://www.youtube.com/watch?v=AGwDONyVolU",
+      "Description": "Análisis del error más destructivo al colocar el Stop Loss: situarlo exactamente en el nivel obvio donde todos los traders minoristas ponen sus stops (justo un par de ticks por debajo de un doble suelo o soporte clásico), convirtiéndote en la liquidez que el Composite Man necesita barrer. Enseña cómo dar respiro técnico al Stop Loss usando el ATR o esperando a que ocurra primero el barrido de liquidez (Spring) antes de entrar.",
+      "Duration": 695,
+      "Channel": "ZCoinTV",
+      "Viewed": 9310,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 142,
+      "Title": "Gestión Avanzada del DD",
+      "Url": "https://youtu.be/qdNtQkv0wPw",
+      "Description": "Clase avanzada sobre el control y recuperación del Drawdown (DD o caída acumulada desde el pico máximo de capital de la cuenta). Explica la asimetría matemática de las pérdidas (perder el 50% de la cuenta requiere ganar un 100% solo para volver a empatar) y presenta un sistema progresivo de reducción de riesgo: bajar el riesgo por operación del 1% al 0.5% y luego al 0.25% cuando la cuenta entra en racha negativa (ideal también para superar pruebas de fondeo).",
+      "Duration": 940,
+      "Channel": "ScottFDX",
+      "Viewed": 6120,
+      "IdLevel": 3,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 143,
+      "Title": "Cómo pagar Menos Impuestos (Residencia Fiscal)",
+      "Url": "https://youtu.be/O53cZPjPlek?si=un3Vgmslg1T6Y12N",
+      "Description": "Guía informativa sobre fiscalidad internacional, optimización tributaria legal y opciones de residencia fiscal para traders e inversores de criptomonedas y bolsa. Analiza cómo tributan las ganancias de capital y las permutas cripto en países de alta presión fiscal como España, frente a jurisdicciones con regímenes favorables o exención sobre rentas extranjeras/cripto (Andorra, Emiratos Árabes Unidos / Dubái, Portugal, Chipre, Paraguay o Panamá) y la regla de los 183 días.",
+      "Duration": 1150,
+      "Channel": "ScottFDX",
+      "Viewed": 8450,
+      "IdLevel": 2,
+      "IdCategory": 8
+    }
+  ],
+  "VideoTags": [
+    {
+      "IdVideo": 129,
+      "IdTag": 34
+    },
+    {
+      "IdVideo": 129,
+      "IdTag": 37
+    },
+    {
+      "IdVideo": 129,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 129,
+      "IdTag": 42
+    },
+    {
+      "IdVideo": 130,
+      "IdTag": 11
+    },
+    {
+      "IdVideo": 130,
+      "IdTag": 34
+    },
+    {
+      "IdVideo": 130,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 130,
+      "IdTag": 41
+    },
+    {
+      "IdVideo": 130,
+      "IdTag": 65
+    },
+    {
+      "IdVideo": 131,
+      "IdTag": 11
+    },
+    {
+      "IdVideo": 131,
+      "IdTag": 34
+    },
+    {
+      "IdVideo": 131,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 131,
+      "IdTag": 41
+    },
+    {
+      "IdVideo": 132,
+      "IdTag": 22
+    },
+    {
+      "IdVideo": 132,
+      "IdTag": 23
+    },
+    {
+      "IdVideo": 132,
+      "IdTag": 34
+    },
+    {
+      "IdVideo": 132,
+      "IdTag": 35
+    },
+    {
+      "IdVideo": 132,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 133,
+      "IdTag": 32
+    },
+    {
+      "IdVideo": 133,
+      "IdTag": 34
+    },
+    {
+      "IdVideo": 133,
+      "IdTag": 35
+    },
+    {
+      "IdVideo": 133,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 133,
+      "IdTag": 42
+    },
+    {
+      "IdVideo": 134,
+      "IdTag": 37
+    },
+    {
+      "IdVideo": 134,
+      "IdTag": 39
+    },
+    {
+      "IdVideo": 134,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 134,
+      "IdTag": 42
+    },
+    {
+      "IdVideo": 134,
+      "IdTag": 43
+    },
+    {
+      "IdVideo": 135,
+      "IdTag": 17
+    },
+    {
+      "IdVideo": 135,
+      "IdTag": 21
+    },
+    {
+      "IdVideo": 135,
+      "IdTag": 32
+    },
+    {
+      "IdVideo": 135,
+      "IdTag": 34
+    },
+    {
+      "IdVideo": 135,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 136,
+      "IdTag": 23
+    },
+    {
+      "IdVideo": 136,
+      "IdTag": 34
+    },
+    {
+      "IdVideo": 136,
+      "IdTag": 35
+    },
+    {
+      "IdVideo": 136,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 137,
+      "IdTag": 10
+    },
+    {
+      "IdVideo": 137,
+      "IdTag": 11
+    },
+    {
+      "IdVideo": 137,
+      "IdTag": 12
+    },
+    {
+      "IdVideo": 137,
+      "IdTag": 21
+    },
+    {
+      "IdVideo": 137,
+      "IdTag": 33
+    },
+    {
+      "IdVideo": 137,
+      "IdTag": 34
+    },
+    {
+      "IdVideo": 137,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 137,
+      "IdTag": 61
+    },
+    {
+      "IdVideo": 138,
+      "IdTag": 34
+    },
+    {
+      "IdVideo": 138,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 138,
+      "IdTag": 41
+    },
+    {
+      "IdVideo": 139,
+      "IdTag": 34
+    },
+    {
+      "IdVideo": 139,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 139,
+      "IdTag": 41
+    },
+    {
+      "IdVideo": 139,
+      "IdTag": 56
+    },
+    {
+      "IdVideo": 139,
+      "IdTag": 58
+    },
+    {
+      "IdVideo": 140,
+      "IdTag": 1
+    },
+    {
+      "IdVideo": 140,
+      "IdTag": 4
+    },
+    {
+      "IdVideo": 140,
+      "IdTag": 34
+    },
+    {
+      "IdVideo": 140,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 140,
+      "IdTag": 42
+    },
+    {
+      "IdVideo": 141,
+      "IdTag": 17
+    },
+    {
+      "IdVideo": 141,
+      "IdTag": 21
+    },
+    {
+      "IdVideo": 141,
+      "IdTag": 29
+    },
+    {
+      "IdVideo": 141,
+      "IdTag": 34
+    },
+    {
+      "IdVideo": 141,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 142,
+      "IdTag": 37
+    },
+    {
+      "IdVideo": 142,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 142,
+      "IdTag": 42
+    },
+    {
+      "IdVideo": 142,
+      "IdTag": 43
+    },
+    {
+      "IdVideo": 143,
+      "IdTag": 1
+    },
+    {
+      "IdVideo": 143,
+      "IdTag": 6
+    },
+    {
+      "IdVideo": 143,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 143,
+      "IdTag": 53
+    }
+  ]
+}

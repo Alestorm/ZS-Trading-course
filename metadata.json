@@ -1,0 +1,6 @@
+{
+  "name": "ZS Trading Academy — Videoteca",
+  "description": "Catálogo interactivo de videos educativos sobre trading e inversión organizados por categorías, niveles y etiquetas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

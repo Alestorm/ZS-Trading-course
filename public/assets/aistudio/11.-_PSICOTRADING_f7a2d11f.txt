@@ -1,0 +1,457 @@
+{
+  "Levels": [
+    {
+      "IdLevel": 1,
+      "Name": "Básico - Fundamentos e Iniciación"
+    },
+    {
+      "IdLevel": 2,
+      "Name": "Intermedio - Operativa, Estrategias e Indicadores"
+    },
+    {
+      "IdLevel": 3,
+      "Name": "Avanzado - Trading Institucional, Wyckoff y Order Flow"
+    }
+  ],
+  "Categories": [
+    {
+      "IdCategory": 9,
+      "Name": "PSICOTRADING"
+    }
+  ],
+  "Tags": [
+    { "IdTag": 1, "Name": "Criptomonedas" },
+    { "IdTag": 2, "Name": "Bitcoin (BTC)" },
+    { "IdTag": 3, "Name": "Altcoins y Altseason" },
+    { "IdTag": 4, "Name": "LowCaps y MicroCaps" },
+    { "IdTag": 5, "Name": "Stablecoins" },
+    { "IdTag": 6, "Name": "Bolsa de Valores y Acciones" },
+    { "IdTag": 7, "Name": "Índices Bursátiles (S&P 500 / Nasdaq)" },
+    { "IdTag": 8, "Name": "Forex y Divisas (EUR/USD)" },
+    { "IdTag": 9, "Name": "Materias Primas y Oro (XAU/USD)" },
+    { "IdTag": 10, "Name": "Trading Spot (Al Contado)" },
+    { "IdTag": 11, "Name": "Trading de Futuros y Derivados" },
+    { "IdTag": 12, "Name": "Contratos Perpetuos e Inversos" },
+    { "IdTag": 13, "Name": "ETFs y Fondos Indexados" },
+    { "IdTag": 14, "Name": "Análisis Técnico" },
+    { "IdTag": 15, "Name": "Análisis Fundamental" },
+    { "IdTag": 16, "Name": "Análisis On-Chain y Tokenomics" },
+    { "IdTag": 17, "Name": "Metodología Wyckoff" },
+    { "IdTag": 18, "Name": "Smart Money Concepts (SMC)" },
+    { "IdTag": 19, "Name": "Order Flow y Tape Reading" },
+    { "IdTag": 20, "Name": "Order Book y Market Depth" },
+    { "IdTag": 21, "Name": "Liquidez e Imbalances" },
+    { "IdTag": 22, "Name": "Acción del Precio (Price Action)" },
+    { "IdTag": 23, "Name": "Estructura de Mercado (BOS / CHoCH)" },
+    { "IdTag": 24, "Name": "Teoría de Dow" },
+    { "IdTag": 25, "Name": "Ley de Oferta y Demanda" },
+    { "IdTag": 26, "Name": "Tendencias y Fractalidad" },
+    { "IdTag": 27, "Name": "Correlación de Activos" },
+    { "IdTag": 28, "Name": "Volatilidad y Sesiones de Mercado" },
+    { "IdTag": 29, "Name": "Manipulación Institucional (Composite Man)" },
+    { "IdTag": 30, "Name": "Calendario Macroeconómico y Noticias" },
+    { "IdTag": 31, "Name": "Política Monetaria y Tipos de Interés" },
+    { "IdTag": 32, "Name": "Tipos de Órdenes (Limit / Market / Stop)" },
+    { "IdTag": 33, "Name": "Posiciones Long y Short" },
+    { "IdTag": 34, "Name": "Stop Loss, Take Profit y Break Even" },
+    { "IdTag": 35, "Name": "Trailing Stop y Gestión Dinámica" },
+    { "IdTag": 36, "Name": "Velas Japonesas y Patrones" },
+    { "IdTag": 37, "Name": "Rutina y Plan de Trading" },
+    { "IdTag": 38, "Name": "Cuenta Demo y Simulación" },
+    { "IdTag": 39, "Name": "Backtesting y Auditoría Operativa" },
+    { "IdTag": 40, "Name": "Gestión de Riesgo y Money Management" },
+    { "IdTag": 41, "Name": "Apalancamiento y Margen" },
+    { "IdTag": 42, "Name": "Control de Drawdown" },
+    { "IdTag": 43, "Name": "Psicotrading y Control Emocional" },
+    { "IdTag": 44, "Name": "FOMO y FUD" },
+    { "IdTag": 45, "Name": "Ciclos de Mercado y Bullrun" },
+    { "IdTag": 46, "Name": "Dominancia de Bitcoin (BTC.D)" },
+    { "IdTag": 47, "Name": "Market Cap y Supply (FDV)" },
+    { "IdTag": 48, "Name": "Estrategia DCA y Holding" },
+    { "IdTag": 49, "Name": "Scalping" },
+    { "IdTag": 50, "Name": "Day Trading e Intradía" },
+    { "IdTag": 51, "Name": "Swing Trading" },
+    { "IdTag": 52, "Name": "Wallets y Autocustodia" },
+    { "IdTag": 53, "Name": "Regulación, MiCA y Fiscalidad" },
+    { "IdTag": 54, "Name": "Inteligencia Artificial y ChatGPT" },
+    { "IdTag": 55, "Name": "Bots de Trading y Automatización" },
+    { "IdTag": 56, "Name": "Exchanges y Brokers (Bitget / Bybit / SimpleFX)" },
+    { "IdTag": 57, "Name": "Terminales de Trading (TealStreet / TensorCharts / Aggr)" },
+    { "IdTag": 58, "Name": "TradingView y Screeners" },
+    { "IdTag": 59, "Name": "Open Interest y Funding Rate" },
+    { "IdTag": 60, "Name": "Fear & Greed Index y Sentimiento" },
+    { "IdTag": 61, "Name": "Volume Profile (POC / VAH / VAL)" },
+    { "IdTag": 62, "Name": "Medias Móviles (EMA / SMA)" },
+    { "IdTag": 63, "Name": "Indicador RSI y Divergencias" },
+    { "IdTag": 64, "Name": "Indicador VWAP" },
+    { "IdTag": 65, "Name": "Mapas de Liquidaciones y Supertrend" }
+  ],
+  "Videos": [
+    {
+      "IdVideo": 144,
+      "Title": "No cometas este Error",
+      "Url": "https://youtu.be/yrKxQPpaPS8",
+      "Description": "Lección de Psicotrading sobre el error psicológico de operar por revancha (Revenge Trading) y sobreoperar (Overtrading) inmediatamente después de sufrir una pérdida o un salto de Stop Loss. Explica cómo la frustración secuestra la corteza prefrontal (secuestro amigdalino), llevándote a aumentar el apalancamiento para 'recuperar rápido' y destruir semanas de trabajo en una sola tarde, proponiendo reglas de bloqueo diario.",
+      "Duration": 610,
+      "Channel": "ScottFDX",
+      "Viewed": 5340,
+      "IdLevel": 1,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 145,
+      "Title": "Psicotrading Aplicado",
+      "Url": "https://youtu.be/dsrCSSoiY8M",
+      "Description": "Guía práctica de Psicotrading Aplicado para entrenar la mente del operador en el día a día. Sustituye la teoría abstracta por herramientas accionables: uso de un checklist obligatorio antes de pulsar el botón de compra/venta, aceptación total del riesgo monetario antes de entrar al trade, desapego emocional del resultado individual pensando en probabilidades y ejercicios de revisión emocional post-sesión.",
+      "Duration": 890,
+      "Channel": "ScottFDX",
+      "Viewed": 6720,
+      "IdLevel": 2,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 146,
+      "Title": "Tips para hacer Trading",
+      "Url": "https://youtu.be/eDysjGgXwII",
+      "Description": "Consejos prácticos de disciplina, hábitos y mentalidad profesional para mantener la consistencia en el trading. Cubre la organización del entorno físico de trabajo, la importancia del descanso y el ejercicio físico para la toma de decisiones bajo presión, el establecimiento de horarios fijos de pantalla para no vivir pegado a los gráficos de 1 minuto y la separación entre tu valía personal y el resultado de un trade.",
+      "Duration": 730,
+      "Channel": "ZCoinTV",
+      "Viewed": 4890,
+      "IdLevel": 1,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 147,
+      "Title": "Psicotrading en Mercados Extremos",
+      "Url": "https://youtu.be/LogCh0FbEcs",
+      "Description": "Cómo gestionar las emociones durante condiciones de mercado extremas: euforia desmedida en subidas parabólicas de Bullrun (donde la codicia impide tomar ganancias y empuja a sobreapalancarse en máximos) y pánico o capitulación en desplomes verticales de Bear Market (donde el miedo paraliza e impide comprar en zonas de valor histórico).",
+      "Duration": 815,
+      "Channel": "ScottFDX",
+      "Viewed": 4120,
+      "IdLevel": 2,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 148,
+      "Title": "Manipulación de Mercado",
+      "Url": "https://youtu.be/C35XJD2TVQs",
+      "Description": "Análisis psicológico de cómo la manipulación institucional utiliza los medios de comunicación financieros, las redes sociales y el movimiento violento de las velas para explotar los sesgos cognitivos de la masa minorista. Enseña a desarrollar un pensamiento crítico y contrario (Contrarian Mindset) para identificar cuándo una noticia alcista en máximos es utilizada como liquidez de salida por las ballenas.",
+      "Duration": 670,
+      "Channel": "ZCoinTV",
+      "Viewed": 5980,
+      "IdLevel": 2,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 149,
+      "Title": "Errores Graves en Psicotrading",
+      "Url": "https://youtu.be/QZiVqIuEbOA",
+      "Description": "Desglose de los errores psicológicos y sesgos cognitivos más graves que sabotean a un trader incluso teniendo una buena estrategia técnica: el sesgo de confirmación (buscar solo argumentos que apoyen tu posición abierta), la falacia del jugador, la aversión a la pérdida (cortar ganancias rápido por miedo a que se devuelvan y dejar correr las pérdidas esperando que el precio recupere) y el exceso de confianza tras una racha ganadora.",
+      "Duration": 920,
+      "Channel": "ScottFDX",
+      "Viewed": 7310,
+      "IdLevel": 2,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 150,
+      "Title": "Riesgo vs Rentabilidad",
+      "Url": "https://www.youtube.com/watch?v=cneDqfsEDWI",
+      "Description": "Lección sobre el ajuste de expectativas realistas entre el Riesgo asumido y la Rentabilidad esperada en el trading y la inversión. Desmonta el mito de duplicar cuentas todas las semanas sin riesgo y explica cómo la búsqueda de rentabilidades irreales a corto plazo es la causa principal de sobreapalancamiento, frustración psicológica y pérdida total del capital.",
+      "Duration": 650,
+      "Channel": "ScottFDX",
+      "Viewed": 4560,
+      "IdLevel": 1,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 151,
+      "Title": "Manipulación de Mercado",
+      "Url": "https://www.youtube.com/watch?v=aAlQj3kWOTk&t=331s",
+      "Description": "Estudio de la psicología del ciclo de mercado y la manipulación de las emociones colectivas (esperanza, optimismo, entusiasmo, euforia en el techo; ansiedad, negación, miedo, pánico y depresión en el suelo) ejecutada por el Composite Man. Muestra cómo sincronizar tu control emocional con las fases de acumulación y distribución de Wyckoff para actuar exactamente al revés que la multitud.",
+      "Duration": 518,
+      "Channel": "ScottFDX",
+      "Viewed": 3294,
+      "IdLevel": 2,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 152,
+      "Title": "Fomo vs Fud",
+      "Url": "https://www.youtube.com/watch?v=GI779NBthWk",
+      "Description": "Explicación profunda de las dos fuerzas emocionales que dominan a los participantes minoristas: el FOMO (Fear Of Missing Out o miedo a quedarse fuera de una subida, que te hace comprar velas verdes gigantes justo en resistencias de distribución) y el FUD (Fear, Uncertainty and Doubt o miedo, incertidumbre y duda propagado por noticias negativas que te hace malvender en soportes de acumulación), y cómo neutralizarlos con órdenes programadas.",
+      "Duration": 590,
+      "Channel": "ZCoinTV",
+      "Viewed": 6840,
+      "IdLevel": 1,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 153,
+      "Title": "Entiende esto y no pierdas dinero de manera absurda",
+      "Url": "https://www.youtube.com/watch?v=US3MZNu_CtM",
+      "Description": "Reflexión directa sobre las formas absurdas en las que los traders regalan su dinero al mercado: entrar en operaciones por aburrimiento cuando no hay setup, cambiar de estrategia cada vez que tocan dos Stop Loss seguidos, seguir señales de terceros en redes sociales sin criterio propio y operar con dinero que se necesita para vivir en el corto plazo (generando presión emocional insoportable).",
+      "Duration": 740,
+      "Channel": "ZCoinTV",
+      "Viewed": 8120,
+      "IdLevel": 1,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 154,
+      "Title": "5 errores que tienes que evitar a toda costa",
+      "Url": "https://youtu.be/X_ky2ChZ6tg",
+      "Description": "Análisis de los 5 errores críticos que debes erradicar de tu operativa: 1) Operar sin un Stop Loss definido antes de entrar, 2) No tener un Plan de Trading escrito con reglas objetivas, 3) Arriesgar un porcentaje variable o excesivo de la cuenta según tu estado de ánimo, 4) Enamorarse de un activo o mantener un sesgo direccional rígido cuando la estructura ya cambió, y 5) Descuidar el registro estadístico de tus operaciones.",
+      "Duration": 830,
+      "Channel": "ScottFDX",
+      "Viewed": 9450,
+      "IdLevel": 1,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 155,
+      "Title": "3 Errores que no te dejan ganar dinero",
+      "Url": "https://youtu.be/9EdX8GYaiPE?si=Tz0bsRmc1RNAk_4H",
+      "Description": "Cierre del módulo de Psicotrading analizando los 3 bloqueos principales que impiden alcanzar la rentabilidad consistente a pesar de saber análisis técnico: 1) La falta de paciencia para esperar a que el precio llegue a tu zona de liquidez/POI (entrar anticipado en mitad del rango), 2) El miedo a apretar el gatillo cuando sí se cumple tu escenario tras una racha de pérdidas, y 3) Cerrar las operaciones ganadoras en pocos segundos por ansiedad, destruyendo el ratio Riesgo/Beneficio de tu sistema.",
+      "Duration": 760,
+      "Channel": "ZCoinTV",
+      "Viewed": 10840,
+      "IdLevel": 2,
+      "IdCategory": 9
+    }
+  ],
+  "VideoTags": [
+    {
+      "IdVideo": 144,
+      "IdTag": 34
+    },
+    {
+      "IdVideo": 144,
+      "IdTag": 37
+    },
+    {
+      "IdVideo": 144,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 144,
+      "IdTag": 42
+    },
+    {
+      "IdVideo": 144,
+      "IdTag": 43
+    },
+    {
+      "IdVideo": 145,
+      "IdTag": 37
+    },
+    {
+      "IdVideo": 145,
+      "IdTag": 39
+    },
+    {
+      "IdVideo": 145,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 145,
+      "IdTag": 43
+    },
+    {
+      "IdVideo": 146,
+      "IdTag": 37
+    },
+    {
+      "IdVideo": 146,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 146,
+      "IdTag": 43
+    },
+    {
+      "IdVideo": 147,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 147,
+      "IdTag": 43
+    },
+    {
+      "IdVideo": 147,
+      "IdTag": 44
+    },
+    {
+      "IdVideo": 147,
+      "IdTag": 45
+    },
+    {
+      "IdVideo": 147,
+      "IdTag": 60
+    },
+    {
+      "IdVideo": 148,
+      "IdTag": 21
+    },
+    {
+      "IdVideo": 148,
+      "IdTag": 29
+    },
+    {
+      "IdVideo": 148,
+      "IdTag": 30
+    },
+    {
+      "IdVideo": 148,
+      "IdTag": 43
+    },
+    {
+      "IdVideo": 148,
+      "IdTag": 44
+    },
+    {
+      "IdVideo": 148,
+      "IdTag": 60
+    },
+    {
+      "IdVideo": 149,
+      "IdTag": 34
+    },
+    {
+      "IdVideo": 149,
+      "IdTag": 37
+    },
+    {
+      "IdVideo": 149,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 149,
+      "IdTag": 42
+    },
+    {
+      "IdVideo": 149,
+      "IdTag": 43
+    },
+    {
+      "IdVideo": 150,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 150,
+      "IdTag": 41
+    },
+    {
+      "IdVideo": 150,
+      "IdTag": 42
+    },
+    {
+      "IdVideo": 150,
+      "IdTag": 43
+    },
+    {
+      "IdVideo": 151,
+      "IdTag": 17
+    },
+    {
+      "IdVideo": 151,
+      "IdTag": 21
+    },
+    {
+      "IdVideo": 151,
+      "IdTag": 29
+    },
+    {
+      "IdVideo": 151,
+      "IdTag": 43
+    },
+    {
+      "IdVideo": 151,
+      "IdTag": 44
+    },
+    {
+      "IdVideo": 151,
+      "IdTag": 60
+    },
+    {
+      "IdVideo": 152,
+      "IdTag": 17
+    },
+    {
+      "IdVideo": 152,
+      "IdTag": 29
+    },
+    {
+      "IdVideo": 152,
+      "IdTag": 32
+    },
+    {
+      "IdVideo": 152,
+      "IdTag": 43
+    },
+    {
+      "IdVideo": 152,
+      "IdTag": 44
+    },
+    {
+      "IdVideo": 152,
+      "IdTag": 60
+    },
+    {
+      "IdVideo": 153,
+      "IdTag": 37
+    },
+    {
+      "IdVideo": 153,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 153,
+      "IdTag": 43
+    },
+    {
+      "IdVideo": 153,
+      "IdTag": 44
+    },
+    {
+      "IdVideo": 154,
+      "IdTag": 34
+    },
+    {
+      "IdVideo": 154,
+      "IdTag": 37
+    },
+    {
+      "IdVideo": 154,
+      "IdTag": 39
+    },
+    {
+      "IdVideo": 154,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 154,
+      "IdTag": 43
+    },
+    {
+      "IdVideo": 155,
+      "IdTag": 21
+    },
+    {
+      "IdVideo": 155,
+      "IdTag": 34
+    },
+    {
+      "IdVideo": 155,
+      "IdTag": 37
+    },
+    {
+      "IdVideo": 155,
+      "IdTag": 40
+    },
+    {
+      "IdVideo": 155,
+      "IdTag": 43
+    }
+  ]
+}

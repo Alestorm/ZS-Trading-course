@@ -1,0 +1,2674 @@
+{
+  "Levels": [
+    {
+      "IdLevel": 1,
+      "Name": "Básico - Fundamentos e Iniciación"
+    },
+    {
+      "IdLevel": 2,
+      "Name": "Intermedio - Operativa, Estrategias e Indicadores"
+    },
+    {
+      "IdLevel": 3,
+      "Name": "Avanzado - Trading Institucional, Wyckoff y Order Flow"
+    }
+  ],
+  "Categories": [
+    {
+      "IdCategory": 1,
+      "Name": "ESENCIALES DEL TRADING Y LA INVERSIÓN"
+    },
+    {
+      "IdCategory": 2,
+      "Name": "ESPECIAL CRIPTOMONEDAS"
+    },
+    {
+      "IdCategory": 3,
+      "Name": "HERRAMIENTAS Y PLATAFORMAS DE TRADING QUE UTILIZAMOS"
+    },
+    {
+      "IdCategory": 4,
+      "Name": "ESTRATEGIAS DE TRADING"
+    },
+    {
+      "IdCategory": 5,
+      "Name": "METODOLOGÍA WYCKOFF PROFESIONAL"
+    },
+    {
+      "IdCategory": 6,
+      "Name": "INDICADORES"
+    },
+    {
+      "IdCategory": 7,
+      "Name": "TRADING AVANZADO"
+    },
+    {
+      "IdCategory": 8,
+      "Name": "GESTIÓN DE RIESGO Y MONEY MANAGEMENT"
+    },
+    {
+      "IdCategory": 9,
+      "Name": "PSICOTRADING"
+    }
+  ],
+  "Tags": [
+    {
+      "IdTag": 1,
+      "Name": "Criptomonedas"
+    },
+    {
+      "IdTag": 2,
+      "Name": "Bolsa y Mercados Tradicionales"
+    },
+    {
+      "IdTag": 3,
+      "Name": "Análisis Técnico"
+    },
+    {
+      "IdTag": 4,
+      "Name": "Análisis Fundamental"
+    },
+    {
+      "IdTag": 5,
+      "Name": "Operativa y Gestión"
+    },
+    {
+      "IdTag": 6,
+      "Name": "Psicotrading"
+    },
+    {
+      "IdTag": 7,
+      "Name": "Herramientas y Plataformas"
+    },
+    {
+      "IdTag": 8,
+      "Name": "Smart Money Concepts (SMC)"
+    },
+    {
+      "IdTag": 9,
+      "Name": "Metodología Wyckoff"
+    },
+    {
+      "IdTag": 10,
+      "Name": "Volumen y Flujo de Órdenes"
+    },
+    {
+      "IdTag": 11,
+      "Name": "Indicadores"
+    }
+  ],
+  "Videos": [
+    {
+      "IdVideo": 1,
+      "Title": "Cómo Invertir en Criptomonedas para Principiantes",
+      "Url": "https://youtu.be/lRYvjk6oD9U",
+      "Description": "Video de la categoría 1 sobre Cómo Invertir en Criptomonedas para Principiantes.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 1,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 2,
+      "Title": "Aprende a Invertir en Bolsa",
+      "Url": "https://youtu.be/TXfaTw1tO9o",
+      "Description": "Video de la categoría 1 sobre Aprende a Invertir en Bolsa.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 1,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 3,
+      "Title": "Aprende Trading sin Gastar Dinero",
+      "Url": "https://youtu.be/z9Ushd8QgBU?si=xVGKMylP2iv2Je0a",
+      "Description": "Video de la categoría 1 sobre Aprende Trading sin Gastar Dinero.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 1,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 4,
+      "Title": "Principales Estrategias y Métodos de Análisis",
+      "Url": "https://youtu.be/PLS1dnEbbNo?si=9HuBBKLw50_THAKq",
+      "Description": "Video de la categoría 1 sobre Principales Estrategias y Métodos de Análisis.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 5,
+      "Title": "Cómo Empezar Trading desde 0",
+      "Url": "https://www.youtube.com/watch?v=dSyE3YH_QL4",
+      "Description": "Video de la categoría 1 sobre Cómo Empezar Trading desde 0.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 1,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 6,
+      "Title": "¿Se puede Ganar Dinero en Recesión?",
+      "Url": "https://www.youtube.com/watch?v=wQ7oqSZVDkk",
+      "Description": "Video de la categoría 1 sobre ¿Se puede Ganar Dinero en Recesión?.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 7,
+      "Title": "Análisis Técnico y Fundamental",
+      "Url": "https://youtu.be/zroXZmR3DG0",
+      "Description": "Video de la categoría 1 sobre Análisis Técnico y Fundamental.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 8,
+      "Title": "Introducción Completa al Análisis Técnico",
+      "Url": "https://www.youtube.com/watch?v=O_wiszfYKZY&ab_channel=ZCoinTV",
+      "Description": "Video de la categoría 1 sobre Introducción Completa al Análisis Técnico.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 9,
+      "Title": "Cómo analizar cualquier Activo desde 0",
+      "Url": "https://www.youtube.com/watch?v=mp0OWtAOB_E",
+      "Description": "Video de la categoría 1 sobre Cómo analizar cualquier Activo desde 0.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 1,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 10,
+      "Title": "Ley de la Oferta y la Demanda",
+      "Url": "https://youtu.be/vWXrOiLiFPo",
+      "Description": "Video de la categoría 1 sobre Ley de la Oferta y la Demanda.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 11,
+      "Title": "Principios del Trading y el Análisis Técnico",
+      "Url": "https://youtu.be/ASvzJs78uxU",
+      "Description": "Video de la categoría 1 sobre Principios del Trading y el Análisis Técnico.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 12,
+      "Title": "Correlación Positiva y Negativa",
+      "Url": "https://youtu.be/92EwXEDJlqQ?si=X8vQH5myQaVs8T8a",
+      "Description": "Video de la categoría 1 sobre Correlación Positiva y Negativa.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 13,
+      "Title": "Tendencias del Mercado",
+      "Url": "https://youtu.be/C9aSiyinF-Y",
+      "Description": "Video de la categoría 1 sobre Tendencias del Mercado.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 14,
+      "Title": "Volatilidad del Mercado",
+      "Url": "https://youtu.be/dSBOrFHoCG8",
+      "Description": "Video de la categoría 1 sobre Volatilidad del Mercado.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 15,
+      "Title": "Manipulación de Mercado",
+      "Url": "https://youtu.be/aAlQj3kWOTk",
+      "Description": "Video de la categoría 1 sobre Manipulación de Mercado.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 16,
+      "Title": "Calendario Macroeconómico",
+      "Url": "https://youtu.be/P4gLHb784c8",
+      "Description": "Video de la categoría 1 sobre Calendario Macroeconómico.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 17,
+      "Title": "Tipos de Órdenes (Long y Short)",
+      "Url": "https://youtu.be/z3zDD0vAQaU",
+      "Description": "Video de la categoría 1 sobre Tipos de Órdenes (Long y Short).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 18,
+      "Title": "Velas Japonesas y patrones de velas",
+      "Url": "https://youtu.be/2ACSjo1xqjE?si=sQc6D_Sk9zEE6R8Y",
+      "Description": "Video de la categoría 1 sobre Velas Japonesas y patrones de velas.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 19,
+      "Title": "Velas japonesas y acción del precio",
+      "Url": "https://www.youtube.com/watch?v=GEkyjFLTPqI",
+      "Description": "Video de la categoría 1 sobre Velas japonesas y acción del precio.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 20,
+      "Title": "Rutina de Trading",
+      "Url": "https://youtu.be/AG-H_ELYa_M?si=KQNXGmm7po0sghSe",
+      "Description": "Video de la categoría 1 sobre Rutina de Trading.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 21,
+      "Title": "Cómo abrir tu primer trade de Futuros",
+      "Url": "https://youtu.be/Qd4YMzh0fkA?si=OOAbJnJagXr6wdH9",
+      "Description": "Video de la categoría 1 sobre Cómo abrir tu primer trade de Futuros.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 22,
+      "Title": "3 formas de ganar dinero haciendo trading de Forex",
+      "Url": "https://www.youtube.com/watch?v=xIK6rTyxBRQ",
+      "Description": "Video de la categoría 1 sobre 3 formas de ganar dinero haciendo trading de Forex.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 23,
+      "Title": "Trading al contado (Spot) y Trading de Futuros",
+      "Url": "https://www.youtube.com/watch?v=vyyzC2i85pc",
+      "Description": "Video de la categoría 1 sobre Trading al contado (Spot) y Trading de Futuros.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 24,
+      "Title": "Tipos de Contratos de Futuros",
+      "Url": "https://youtu.be/7I-SdS0idR0",
+      "Description": "Video de la categoría 1 sobre Tipos de Contratos de Futuros.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 25,
+      "Title": "Trading Institucional (EXPERIENCIA REAL)",
+      "Url": "https://youtu.be/l6V4QYPrmpQ",
+      "Description": "Video de la categoría 1 sobre Trading Institucional (EXPERIENCIA REAL).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 3,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 26,
+      "Title": "Trading de Cryptomonedas Paso a Paso",
+      "Url": "https://youtu.be/Vl33Zx2m3Sc?si=HwAp2DkUm9GlkYs3",
+      "Description": "Video de la categoría 1 sobre Trading de Cryptomonedas Paso a Paso.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 1
+    },
+    {
+      "IdVideo": 27,
+      "Title": "¿Cómo Ganar Dinero en Bullrun?",
+      "Url": "https://www.youtube.com/watch?v=kwLW9y_ZbxU",
+      "Description": "Video de la categoría 2 sobre ¿Cómo Ganar Dinero en Bullrun?.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 28,
+      "Title": "Ciclos de las Criptomonedas (Trading Spot)",
+      "Url": "https://youtu.be/e_OldkKCu34",
+      "Description": "Video de la categoría 2 sobre Ciclos de las Criptomonedas (Trading Spot).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 29,
+      "Title": "Altcoin Season en Crypto",
+      "Url": "https://www.youtube.com/watch?v=9LFBano0ZvA&t",
+      "Description": "Video de la categoría 2 sobre Altcoin Season en Crypto.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 30,
+      "Title": "Entiende la Altseason",
+      "Url": "https://www.youtube.com/watch?v=9LFBano0ZvA",
+      "Description": "Video de la categoría 2 sobre Entiende la Altseason.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 31,
+      "Title": "Trading de LowCaps Paso a Paso",
+      "Url": "https://www.youtube.com/watch?v=yB9HS8lVHjo&t=377s",
+      "Description": "Video de la categoría 2 sobre Trading de LowCaps Paso a Paso.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 32,
+      "Title": "¿Son seguras las Stablecoins?",
+      "Url": "https://youtu.be/v588GsC1wOg",
+      "Description": "Video de la categoría 2 sobre ¿Son seguras las Stablecoins?.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 33,
+      "Title": "Analiza Bitcoin en 10 minutos",
+      "Url": "https://youtu.be/fRK_MPZsfkE",
+      "Description": "Video de la categoría 2 sobre Analiza Bitcoin en 10 minutos.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 34,
+      "Title": "Cómo encontrar nuevas cryptos para Invertir",
+      "Url": "https://www.youtube.com/watch?v=5pyUKHjZMwg",
+      "Description": "Video de la categoría 2 sobre Cómo encontrar nuevas cryptos para Invertir.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 35,
+      "Title": "Cómo se mueve el dinero entre las Criptomonedas",
+      "Url": "https://youtu.be/m-9B3wd72Es",
+      "Description": "Video de la categoría 2 sobre Cómo se mueve el dinero entre las Criptomonedas.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 36,
+      "Title": "Capitalización de Mercado vs Supply",
+      "Url": "https://youtu.be/YSzNXSfcMoI?si=ze9omrwswh5txjjR",
+      "Description": "Video de la categoría 2 sobre Capitalización de Mercado vs Supply.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 37,
+      "Title": "Estrategia de Michael Saylor",
+      "Url": "https://youtu.be/XtcxPCRlLSM?si=tnj9ZYLNfFqTfE6e",
+      "Description": "Video de la categoría 2 sobre Estrategia de Michael Saylor.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 38,
+      "Title": "Cómo ganar dinero con cryptos paso a paso",
+      "Url": "https://www.youtube.com/watch?v=ltuu6qUOecg",
+      "Description": "Video de la categoría 2 sobre Cómo ganar dinero con cryptos paso a paso.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 39,
+      "Title": "4 Maneras de ganar dinero con criptomonedas",
+      "Url": "https://www.youtube.com/watch?v=Xt584HdrBck",
+      "Description": "Video de la categoría 2 sobre 4 Maneras de ganar dinero con criptomonedas.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 40,
+      "Title": "Scalping de cryptos rentable",
+      "Url": "https://www.youtube.com/watch?v=VRMG5S-kKNg",
+      "Description": "Video de la categoría 2 sobre Scalping de cryptos rentable.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 41,
+      "Title": "Estrategia Bullrun Crypto",
+      "Url": "https://www.youtube.com/watch?v=vKFOyayEWgM",
+      "Description": "Video de la categoría 2 sobre Estrategia Bullrun Crypto.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 42,
+      "Title": "Trading de Spot Explicado",
+      "Url": "https://youtu.be/S_daM3cCjYg",
+      "Description": "Video de la categoría 2 sobre Trading de Spot Explicado.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 43,
+      "Title": "Haz trading de SP500 y Oro con crypto",
+      "Url": "https://youtu.be/W-1LdGdCe3k",
+      "Description": "Video de la categoría 2 sobre Haz trading de SP500 y Oro con crypto.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 44,
+      "Title": "Cómo ganar en la proxima altseasson",
+      "Url": "https://www.youtube.com/watch?v=jqnPKitbZYc",
+      "Description": "Video de la categoría 2 sobre Cómo ganar en la proxima altseasson.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 45,
+      "Title": "Cómo vender cryptos en bullrun",
+      "Url": "https://www.youtube.com/watch?v=pnft0Ql27bo",
+      "Description": "Video de la categoría 2 sobre Cómo vender cryptos en bullrun.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 46,
+      "Title": "Cómo invertir en cryptos para principiantes paso a paso",
+      "Url": "https://youtu.be/lRYvjk6oD9U?si=AQJzerPQlNslSI4G",
+      "Description": "Video de la categoría 2 sobre Cómo invertir en cryptos para principiantes paso a paso.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 1,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 47,
+      "Title": "Wallets de Criptomonedas",
+      "Url": "https://youtu.be/JwrfWgcrTtg?si=zdiypOsK24uGJ9L1",
+      "Description": "Video de la categoría 2 sobre Wallets de Criptomonedas.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 48,
+      "Title": "Cryptos que pueden subir segun ChatGPT",
+      "Url": "https://www.youtube.com/watch?v=39XfWDH8IhM",
+      "Description": "Video de la categoría 2 sobre Cryptos que pueden subir segun ChatGPT.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 49,
+      "Title": "Nuestra Gestión de Riesgos en Trades/Inversiones Arriesgas",
+      "Url": "https://youtu.be/MJ0yB0op9jM",
+      "Description": "Video de la categoría 2 sobre Nuestra Gestión de Riesgos en Trades/Inversiones Arriesgas.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 50,
+      "Title": "La UE prohíbe cryptomonedas de privacidad",
+      "Url": "https://youtu.be/sITplA-HXmI?si=MhM9bILJlyOfuGsu",
+      "Description": "Video de la categoría 2 sobre La UE prohíbe cryptomonedas de privacidad.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 2
+    },
+    {
+      "IdVideo": 51,
+      "Title": "BITGET",
+      "Url": "https://youtube.com/playlist?list=PLVqzNYdLGWqFbbDuCPZ4fMkT-sWedG0CW&si=n0JNtEcsuiMF0skN",
+      "Description": "Video de la categoría 3 sobre BITGET.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 52,
+      "Title": "SimpleFX",
+      "Url": "https://www.youtube.com/watch?v=pj8oKyxtoxM&list=PLVqzNYdLGWqGXU9KBNvpoxFBcWV6l0Bzq&ab_channel=ZCoinTV",
+      "Description": "Video de la categoría 3 sobre SimpleFX.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 53,
+      "Title": "TealStreet Terminal",
+      "Url": "https://www.youtube.com/watch?v=GPIN8ErHc4w&list=PLVqzNYdLGWqH8fyoCOWUSA_2udovwpIqP&ab_channel=ZCoinTV",
+      "Description": "Video de la categoría 3 sobre TealStreet Terminal.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 54,
+      "Title": "Order Book en detalle",
+      "Url": "https://youtu.be/IZqhHSyrFeA?si=F-3dsLVkHfXMtTab",
+      "Description": "Video de la categoría 3 sobre Order Book en detalle.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 3,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 55,
+      "Title": "Order Book y Market Depth",
+      "Url": "https://youtu.be/pxxzfK71Yv0",
+      "Description": "Video de la categoría 3 sobre Order Book y Market Depth.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 3,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 56,
+      "Title": "TensorChart (OB + MD)",
+      "Url": "https://youtu.be/uV6JcbD6Wbg",
+      "Description": "Video de la categoría 3 sobre TensorChart (OB + MD).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 57,
+      "Title": "Fear & Greed Index",
+      "Url": "https://youtu.be/uHuMQhsmH-o",
+      "Description": "Video de la categoría 3 sobre Fear & Greed Index.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 58,
+      "Title": "Aggr Trade",
+      "Url": "https://youtu.be/3GMufUYFOHc",
+      "Description": "Video de la categoría 3 sobre Aggr Trade.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 59,
+      "Title": "Aggr Trade v3",
+      "Url": "https://youtu.be/3GMufUYFOHc",
+      "Description": "Video de la categoría 3 sobre Aggr Trade v3.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 60,
+      "Title": "Tutorial TradingView",
+      "Url": "https://youtu.be/ec8NS2dNe5Y",
+      "Description": "Video de la categoría 3 sobre Tutorial TradingView.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 1,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 61,
+      "Title": "Configuraciones TradingView",
+      "Url": "https://www.youtube.com/watch?v=hZ1sEpesXO0&ab_channel=ZCoinTV",
+      "Description": "Video de la categoría 3 sobre Configuraciones TradingView.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 62,
+      "Title": "Open Interest",
+      "Url": "https://www.youtube.com/watch?v=fKctshIYIEg",
+      "Description": "Video de la categoría 3 sobre Open Interest.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 63,
+      "Title": "Screener para detectar Altcoins",
+      "Url": "https://www.youtube.com/watch?v=bRZqinREoJ4",
+      "Description": "Video de la categoría 3 sobre Screener para detectar Altcoins.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 64,
+      "Title": "El Mejor Bot de trading para Criptomonedas (Paso a paso)",
+      "Url": "https://youtu.be/xdUNtbRRGII?si=ZzC6iB1JNzoNKxV7",
+      "Description": "Video de la categoría 3 sobre El Mejor Bot de trading para Criptomonedas (Paso a paso).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 65,
+      "Title": "Tutorial Bybit",
+      "Url": "https://youtu.be/wj87GUyZxOc",
+      "Description": "Video de la categoría 3 sobre Tutorial Bybit.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 1,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 66,
+      "Title": "Tutorial Bybit 2",
+      "Url": "https://youtu.be/mRhxfXRq_oE",
+      "Description": "Video de la categoría 3 sobre Tutorial Bybit 2.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 1,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 67,
+      "Title": "Bot de trading WunderTrading",
+      "Url": "https://youtu.be/ftkPLTQ_Czk",
+      "Description": "Video de la categoría 3 sobre Bot de trading WunderTrading.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 3
+    },
+    {
+      "IdVideo": 68,
+      "Title": "¿Qué es una Estrategia de Trading?",
+      "Url": "https://youtu.be/qC2cefycJvI",
+      "Description": "Video de la categoría 4 sobre ¿Qué es una Estrategia de Trading?.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 69,
+      "Title": "Estrategia de Trading para Bitcoin (scalping/intraday)",
+      "Url": "https://youtu.be/KddTTcjBHPI",
+      "Description": "Video de la categoría 4 sobre Estrategia de Trading para Bitcoin (scalping/intraday).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 70,
+      "Title": "La Mejor Estrategia Criptomonedas",
+      "Url": "https://youtu.be/igfi_skgX4Y",
+      "Description": "Video de la categoría 4 sobre La Mejor Estrategia Criptomonedas.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 71,
+      "Title": "Estrategia de Hold Crypto",
+      "Url": "https://youtu.be/S_daM3cCjYg",
+      "Description": "Video de la categoría 4 sobre Estrategia de Hold Crypto.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 72,
+      "Title": "Estrategia de Scalping/DayTrading para Altcoins",
+      "Url": "https://youtu.be/HFcZXhfFtRs",
+      "Description": "Video de la categoría 4 sobre Estrategia de Scalping/DayTrading para Altcoins.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 73,
+      "Title": "Estrategia de Apertura WallStreet",
+      "Url": "https://youtu.be/rOfrcD72Cs4",
+      "Description": "Video de la categoría 4 sobre Estrategia de Apertura WallStreet.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 74,
+      "Title": "Estrategia \"Caja\" S&P500",
+      "Url": "https://youtu.be/pePNo0A7WPI",
+      "Description": "Video de la categoría 4 sobre Estrategia \"Caja\" S&P500.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 75,
+      "Title": "Clase Scalping 1 (Estrategia Discrecional)",
+      "Url": "https://youtu.be/Qo7Ue7N-swA",
+      "Description": "Video de la categoría 4 sobre Clase Scalping 1 (Estrategia Discrecional).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 76,
+      "Title": "Clase Scalping 2 (Estrategia Discrecional)",
+      "Url": "https://youtu.be/ERZ-dXraElc",
+      "Description": "Video de la categoría 4 sobre Clase Scalping 2 (Estrategia Discrecional).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 77,
+      "Title": "Estrategia Scalping EUR/USD",
+      "Url": "https://youtu.be/AX6tjIcEJcw",
+      "Description": "Video de la categoría 4 sobre Estrategia Scalping EUR/USD.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 78,
+      "Title": "Cómo hacer trading en el Oro",
+      "Url": "https://youtu.be/xMOSPDWGD1g?si=ALssD919ysl1vJ7M",
+      "Description": "Video de la categoría 4 sobre Cómo hacer trading en el Oro.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 79,
+      "Title": "Estrategia Scalping ORO",
+      "Url": "https://youtu.be/go_Kc9itkTQ",
+      "Description": "Video de la categoría 4 sobre Estrategia Scalping ORO.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 80,
+      "Title": "Aplicamos la Estrategia de Trading en Bitcoin",
+      "Url": "https://youtube.com/live/5wipn1DCN08",
+      "Description": "Video de la categoría 4 sobre Aplicamos la Estrategia de Trading en Bitcoin.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 81,
+      "Title": "Estrategia para Trading en Chicharros/LowCaps",
+      "Url": "https://youtu.be/yB9HS8lVHjo?si=WIDjBWAUG5nhCbB1",
+      "Description": "Video de la categoría 4 sobre Estrategia para Trading en Chicharros/LowCaps.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 82,
+      "Title": "Estrategia Compra/Venta en Spot",
+      "Url": "https://youtu.be/N9mXKCQP6dM",
+      "Description": "Video de la categoría 4 sobre Estrategia Compra/Venta en Spot.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 83,
+      "Title": "Estrategia Compra/Venta en Criptomonedas",
+      "Url": "https://youtu.be/7EUKXZw6vhI",
+      "Description": "Video de la categoría 4 sobre Estrategia Compra/Venta en Criptomonedas.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 84,
+      "Title": "Guía completa Estrategia + SMC",
+      "Url": "https://youtu.be/AD4FFVivT1E",
+      "Description": "Video de la categoría 4 sobre Guía completa Estrategia + SMC.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 3,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 85,
+      "Title": "Estrategia con VP",
+      "Url": "https://youtu.be/1Ka41s9IXSk?si=4Y4si9QqHmNwEcFG",
+      "Description": "Video de la categoría 4 sobre Estrategia con VP.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 86,
+      "Title": "Repaso Estrategia de Bitcoin",
+      "Url": "https://www.youtube.com/watch?v=gprfJbQCH-o",
+      "Description": "Video de la categoría 4 sobre Repaso Estrategia de Bitcoin.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 87,
+      "Title": "Estrategia del 1%",
+      "Url": "https://www.youtube.com/watch?v=QlZqyWoQyrA",
+      "Description": "Video de la categoría 4 sobre Estrategia del 1%.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 88,
+      "Title": "Estrategia con Volume Profile",
+      "Url": "https://youtu.be/1Ka41s9IXSk",
+      "Description": "Video de la categoría 4 sobre Estrategia con Volume Profile.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 4
+    },
+    {
+      "IdVideo": 89,
+      "Title": "Las Bases Imprescindibles",
+      "Url": "https://www.youtube.com/watch?v=X2x9kRNLGGU",
+      "Description": "Video de la categoría 5 sobre Las Bases Imprescindibles.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 5
+    },
+    {
+      "IdVideo": 90,
+      "Title": "Acumulaciones",
+      "Url": "https://www.youtube.com/watch?v=Fg4MWVzWs20",
+      "Description": "Video de la categoría 5 sobre Acumulaciones.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 5
+    },
+    {
+      "IdVideo": 91,
+      "Title": "Distribuciones",
+      "Url": "https://www.youtube.com/watch?v=3orZRON6t80",
+      "Description": "Video de la categoría 5 sobre Distribuciones.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 5
+    },
+    {
+      "IdVideo": 92,
+      "Title": "Continuación de la tendencia",
+      "Url": "https://www.youtube.com/watch?v=WHxbSXEUhN4",
+      "Description": "Video de la categoría 5 sobre Continuación de la tendencia.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 5
+    },
+    {
+      "IdVideo": 93,
+      "Title": "Temporalidades",
+      "Url": "https://www.youtube.com/watch?v=0qKAtNYA8Mk",
+      "Description": "Video de la categoría 5 sobre Temporalidades.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 5
+    },
+    {
+      "IdVideo": 94,
+      "Title": "Metodología en detalle",
+      "Url": "https://youtu.be/jzPRSM1T22A",
+      "Description": "Video de la categoría 5 sobre Metodología en detalle.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 5
+    },
+    {
+      "IdVideo": 95,
+      "Title": "Metodología Wyckoff Avanzada",
+      "Url": "https://www.youtube.com/watch?v=_CSLc7wd7T4",
+      "Description": "Video de la categoría 5 sobre Metodología Wyckoff Avanzada.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 3,
+      "IdCategory": 5
+    },
+    {
+      "IdVideo": 96,
+      "Title": "Wyckoff en tiempo real",
+      "Url": "https://youtu.be/VorX1zLcThw",
+      "Description": "Video de la categoría 5 sobre Wyckoff en tiempo real.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 3,
+      "IdCategory": 5
+    },
+    {
+      "IdVideo": 97,
+      "Title": "Volumen aplicado a Wyckoff",
+      "Url": "https://youtu.be/OJ9UMH0LveY",
+      "Description": "Video de la categoría 5 sobre Volumen aplicado a Wyckoff.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 3,
+      "IdCategory": 5
+    },
+    {
+      "IdVideo": 98,
+      "Title": "Gestión de Riesgo con Wyckoff",
+      "Url": "https://youtu.be/yI7FwpHv2ns",
+      "Description": "Video de la categoría 5 sobre Gestión de Riesgo con Wyckoff.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 3,
+      "IdCategory": 5
+    },
+    {
+      "IdVideo": 99,
+      "Title": "Ema y Pivotes (pupupu)",
+      "Url": "https://es.tradingview.com/script/dnmjwa5o/",
+      "Description": "Video de la categoría 6 sobre Ema y Pivotes (pupupu).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 6
+    },
+    {
+      "IdVideo": 100,
+      "Title": "Indicador MA (medias móviles)",
+      "Url": "https://youtu.be/EWi9w_O-c5c",
+      "Description": "Video de la categoría 6 sobre Indicador MA (medias móviles).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 6
+    },
+    {
+      "IdVideo": 101,
+      "Title": "Medias móviles",
+      "Url": "https://youtu.be/qn3Gog4d5II",
+      "Description": "Video de la categoría 6 sobre Medias móviles.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 6
+    },
+    {
+      "IdVideo": 102,
+      "Title": "Indicador RSI 1",
+      "Url": "https://youtu.be/pvaUJ4fpKoA",
+      "Description": "Video de la categoría 6 sobre Indicador RSI 1.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 6
+    },
+    {
+      "IdVideo": 103,
+      "Title": "Indicador RSI 2",
+      "Url": "https://youtu.be/4foezWt-PN4?si=K3CM96adIxGCWJCn",
+      "Description": "Video de la categoría 6 sobre Indicador RSI 2.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 6
+    },
+    {
+      "IdVideo": 104,
+      "Title": "Indicador RSI Especial Crypto",
+      "Url": "https://youtu.be/WupecPXRfkI?si=sIC3NlmCZFsOJ3fm",
+      "Description": "Video de la categoría 6 sobre Indicador RSI Especial Crypto.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 6
+    },
+    {
+      "IdVideo": 105,
+      "Title": "Todo sobre el VWAP",
+      "Url": "https://youtu.be/CEHmDT-4HzY",
+      "Description": "Video de la categoría 6 sobre Todo sobre el VWAP.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 6
+    },
+    {
+      "IdVideo": 106,
+      "Title": "Indicador VWAP",
+      "Url": "https://youtu.be/ts3HG_40nJI",
+      "Description": "Video de la categoría 6 sobre Indicador VWAP.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 6
+    },
+    {
+      "IdVideo": 107,
+      "Title": "Volume Profile 1",
+      "Url": "https://youtu.be/yD8O5Atdh5w",
+      "Description": "Video de la categoría 6 sobre Volume Profile 1.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 6
+    },
+    {
+      "IdVideo": 108,
+      "Title": "Volume Profile 2",
+      "Url": "https://youtu.be/yhZXw_ZTvlw?si=tZsyCpAbdw7vLeqb",
+      "Description": "Video de la categoría 6 sobre Volume Profile 2.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 6
+    },
+    {
+      "IdVideo": 109,
+      "Title": "Volaitilidad de Mercado",
+      "Url": "https://youtu.be/dSBOrFHoCG8",
+      "Description": "Video de la categoría 6 sobre Volaitilidad de Mercado.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 6
+    },
+    {
+      "IdVideo": 110,
+      "Title": "Liquidation Levels",
+      "Url": "https://youtu.be/GF0EJINoOI4",
+      "Description": "Video de la categoría 6 sobre Liquidation Levels.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 6
+    },
+    {
+      "IdVideo": 111,
+      "Title": "Sesiones de Mercado + Indicador",
+      "Url": "https://youtu.be/hIt2U41V8go",
+      "Description": "Video de la categoría 6 sobre Sesiones de Mercado + Indicador.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 6
+    },
+    {
+      "IdVideo": 112,
+      "Title": "Indicador Supertrend (TV)",
+      "Url": "https://youtu.be/syjDuhUlV-4",
+      "Description": "Video de la categoría 6 sobre Indicador Supertrend (TV).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 6
+    },
+    {
+      "IdVideo": 113,
+      "Title": "Simulación de Trading",
+      "Url": "https://youtu.be/lke2ctzIDLw",
+      "Description": "Video de la categoría 7 sobre Simulación de Trading.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 7
+    },
+    {
+      "IdVideo": 114,
+      "Title": "Price Action & Market Structure (P.1)",
+      "Url": "https://youtu.be/GqQR-09G4mk",
+      "Description": "Video de la categoría 7 sobre Price Action & Market Structure (P.1).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 7
+    },
+    {
+      "IdVideo": 115,
+      "Title": "Price Action & Market Structure (P.2)",
+      "Url": "https://youtu.be/vJG74M1QjRY",
+      "Description": "Video de la categoría 7 sobre Price Action & Market Structure (P.2).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 7
+    },
+    {
+      "IdVideo": 116,
+      "Title": "Price Action & Market Structure (P.3)",
+      "Url": "https://youtu.be/48xfooFchE4",
+      "Description": "Video de la categoría 7 sobre Price Action & Market Structure (P.3).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 7
+    },
+    {
+      "IdVideo": 117,
+      "Title": "Smart Money Concepts (P.1)",
+      "Url": "https://youtu.be/cOQyZranaKY",
+      "Description": "Video de la categoría 7 sobre Smart Money Concepts (P.1).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 7
+    },
+    {
+      "IdVideo": 118,
+      "Title": "Smart Money Concepts (P.2)",
+      "Url": "https://youtu.be/o25LAuchx58",
+      "Description": "Video de la categoría 7 sobre Smart Money Concepts (P.2).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 7
+    },
+    {
+      "IdVideo": 119,
+      "Title": "Clase Trading para Índices",
+      "Url": "https://youtu.be/YZqA_YgP7H8",
+      "Description": "Video de la categoría 7 sobre Clase Trading para Índices.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 7
+    },
+    {
+      "IdVideo": 120,
+      "Title": "AT + SMC + Trading",
+      "Url": "https://youtu.be/uGX7Mu1AUdw",
+      "Description": "Video de la categoría 7 sobre AT + SMC + Trading.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 3,
+      "IdCategory": 7
+    },
+    {
+      "IdVideo": 121,
+      "Title": "Análisis Técnico desde Cero (+operaciones)",
+      "Url": "https://youtu.be/RARXijkKPEo",
+      "Description": "Video de la categoría 7 sobre Análisis Técnico desde Cero (+operaciones).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 1,
+      "IdCategory": 7
+    },
+    {
+      "IdVideo": 122,
+      "Title": "Order Book y Order Flow (Tapesurf)",
+      "Url": "https://youtu.be/UftQkSOEPxM?si=uSZyV9lOLVSC18bB",
+      "Description": "Video de la categoría 7 sobre Order Book y Order Flow (Tapesurf).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 3,
+      "IdCategory": 7
+    },
+    {
+      "IdVideo": 123,
+      "Title": "Claves en el Trading",
+      "Url": "https://youtu.be/RBMWJ89XAUA",
+      "Description": "Video de la categoría 7 sobre Claves en el Trading.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 7
+    },
+    {
+      "IdVideo": 124,
+      "Title": "Trading de Fractales",
+      "Url": "https://youtu.be/BlEeqlTrxIY",
+      "Description": "Video de la categoría 7 sobre Trading de Fractales.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 7
+    },
+    {
+      "IdVideo": 125,
+      "Title": "Clase de Operativa en Mercados Altamente Volátiles",
+      "Url": "https://youtu.be/7MzoGFAz-cM",
+      "Description": "Video de la categoría 7 sobre Clase de Operativa en Mercados Altamente Volátiles.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 7
+    },
+    {
+      "IdVideo": 126,
+      "Title": "Preparación Semanal de un Trader",
+      "Url": "https://youtu.be/OXJL30ylJt0",
+      "Description": "Video de la categoría 7 sobre Preparación Semanal de un Trader.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 7
+    },
+    {
+      "IdVideo": 127,
+      "Title": "Macroeconomía y Política Monetaria",
+      "Url": "https://youtu.be/r01zBBVv968",
+      "Description": "Video de la categoría 7 sobre Macroeconomía y Política Monetaria.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 7
+    },
+    {
+      "IdVideo": 128,
+      "Title": "¿Se hace Trading o No se hace Trading en momentos de Alta Volatilidad?",
+      "Url": "https://youtu.be/CtalMcRlEgo",
+      "Description": "Video de la categoría 7 sobre ¿Se hace Trading o No se hace Trading en momentos de Alta Volatilidad?.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 7
+    },
+    {
+      "IdVideo": 129,
+      "Title": "Risk & Money Management",
+      "Url": "https://youtu.be/Ni6Nvxl1ID0",
+      "Description": "Video de la categoría 8 sobre Risk & Money Management.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 130,
+      "Title": "Apalancamiento Explicado",
+      "Url": "https://www.youtube.com/watch?v=zab-8-M2yJw&t",
+      "Description": "Video de la categoría 8 sobre Apalancamiento Explicado.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 131,
+      "Title": "Cuánto Apalancamiento usar",
+      "Url": "https://youtu.be/2Farzm-iUXk?si=IEoTgdTgkHonPNTL",
+      "Description": "Video de la categoría 8 sobre Cuánto Apalancamiento usar.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 132,
+      "Title": "Gestión Operativa",
+      "Url": "https://youtu.be/UlS40bsc9l8",
+      "Description": "Video de la categoría 8 sobre Gestión Operativa.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 133,
+      "Title": "Cómo Perder Menos y Ganar Más",
+      "Url": "https://youtu.be/QAXiPOoI5do",
+      "Description": "Video de la categoría 8 sobre Cómo Perder Menos y Ganar Más.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 134,
+      "Title": "Análisis de Operaciones",
+      "Url": "https://youtu.be/uZXBRF9VazA",
+      "Description": "Video de la categoría 8 sobre Análisis de Operaciones.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 135,
+      "Title": "Stop Loss - Tutorial Completo",
+      "Url": "https://youtu.be/ttXrii_inbw",
+      "Description": "Video de la categoría 8 sobre Stop Loss - Tutorial Completo.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 1,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 136,
+      "Title": "Break Even, Stop Profit y Trailing Stop",
+      "Url": "https://youtu.be/8RNwV2lYD8c?si=_4q6_SLvn1UzKyYD",
+      "Description": "Video de la categoría 8 sobre Break Even, Stop Profit y Trailing Stop.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 137,
+      "Title": "Sacar Profit y Cubrir Posiciones",
+      "Url": "https://youtu.be/C-XoyndvPyQ",
+      "Description": "Video de la categoría 8 sobre Sacar Profit y Cubrir Posiciones.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 138,
+      "Title": "Cálculo de Riesgo completo",
+      "Url": "https://youtu.be/PTN7hsgIK0E",
+      "Description": "Video de la categoría 8 sobre Cálculo de Riesgo completo.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 139,
+      "Title": "Cálculo de Riesgo con ejemplos",
+      "Url": "https://youtu.be/Nu_vS-pja8E",
+      "Description": "Video de la categoría 8 sobre Cálculo de Riesgo con ejemplos.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 140,
+      "Title": "Gestión de Inversiones Arriesgadas",
+      "Url": "https://youtu.be/MJ0yB0op9jM",
+      "Description": "Video de la categoría 8 sobre Gestión de Inversiones Arriesgadas.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 141,
+      "Title": "No cometas este error nunca más (SL)",
+      "Url": "https://www.youtube.com/watch?v=AGwDONyVolU",
+      "Description": "Video de la categoría 8 sobre No cometas este error nunca más (SL).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 142,
+      "Title": "Gestión Avanzada del DD",
+      "Url": "https://youtu.be/qdNtQkv0wPw",
+      "Description": "Video de la categoría 8 sobre Gestión Avanzada del DD.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 3,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 143,
+      "Title": "Cómo pagar Menos Impuestos (Residencia Fiscal)",
+      "Url": "https://youtu.be/O53cZPjPlek?si=un3Vgmslg1T6Y12N",
+      "Description": "Video de la categoría 8 sobre Cómo pagar Menos Impuestos (Residencia Fiscal).",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 8
+    },
+    {
+      "IdVideo": 144,
+      "Title": "No cometas este Error",
+      "Url": "https://youtu.be/yrKxQPpaPS8",
+      "Description": "Video de la categoría 9 sobre No cometas este Error.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 145,
+      "Title": "Psicotrading Aplicado",
+      "Url": "https://youtu.be/dsrCSSoiY8M",
+      "Description": "Video de la categoría 9 sobre Psicotrading Aplicado.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 146,
+      "Title": "Tips para hacer Trading",
+      "Url": "https://youtu.be/eDysjGgXwII",
+      "Description": "Video de la categoría 9 sobre Tips para hacer Trading.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 147,
+      "Title": "Psicotrading en Mercados Extremos",
+      "Url": "https://youtu.be/LogCh0FbEcs",
+      "Description": "Video de la categoría 9 sobre Psicotrading en Mercados Extremos.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 148,
+      "Title": "Manipulación de Mercado",
+      "Url": "https://youtu.be/C35XJD2TVQs",
+      "Description": "Video de la categoría 9 sobre Manipulación de Mercado.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 149,
+      "Title": "Errores Graves en Psicotrading",
+      "Url": "https://youtu.be/QZiVqIuEbOA",
+      "Description": "Video de la categoría 9 sobre Errores Graves en Psicotrading.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 150,
+      "Title": "Riesgo vs Rentabilidad",
+      "Url": "https://www.youtube.com/watch?v=cneDqfsEDWI",
+      "Description": "Video de la categoría 9 sobre Riesgo vs Rentabilidad.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 151,
+      "Title": "Manipulación de Mercado",
+      "Url": "https://www.youtube.com/watch?v=aAlQj3kWOTk&t=331s",
+      "Description": "Video de la categoría 9 sobre Manipulación de Mercado.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 152,
+      "Title": "Fomo vs Fud",
+      "Url": "https://www.youtube.com/watch?v=GI779NBthWk",
+      "Description": "Video de la categoría 9 sobre Fomo vs Fud.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 153,
+      "Title": "Entiende esto y no pierdas dinero de manera absurda",
+      "Url": "https://www.youtube.com/watch?v=US3MZNu_CtM",
+      "Description": "Video de la categoría 9 sobre Entiende esto y no pierdas dinero de manera absurda.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 154,
+      "Title": "5 errores que tienes que evitar a toda costa",
+      "Url": "https://youtu.be/X_ky2ChZ6tg",
+      "Description": "Video de la categoría 9 sobre 5 errores que tienes que evitar a toda costa.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 9
+    },
+    {
+      "IdVideo": 155,
+      "Title": "3 Errores que no te dejan ganar dinero",
+      "Url": "https://youtu.be/9EdX8GYaiPE?si=Tz0bsRmc1RNAk_4H",
+      "Description": "Video de la categoría 9 sobre 3 Errores que no te dejan ganar dinero.",
+      "Duration": 0,
+      "Channel": "",
+      "Viewed": 0,
+      "IdLevel": 2,
+      "IdCategory": 9
+    }
+  ],
+  "VideoTags": [
+    {
+      "IdVideoTag": 1,
+      "IdVideo": 1,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 2,
+      "IdVideo": 2,
+      "IdTag": 2
+    },
+    {
+      "IdVideoTag": 3,
+      "IdVideo": 3,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 4,
+      "IdVideo": 3,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 5,
+      "IdVideo": 4,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 6,
+      "IdVideo": 4,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 7,
+      "IdVideo": 5,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 8,
+      "IdVideo": 5,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 9,
+      "IdVideo": 6,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 10,
+      "IdVideo": 6,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 11,
+      "IdVideo": 7,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 12,
+      "IdVideo": 7,
+      "IdTag": 4
+    },
+    {
+      "IdVideoTag": 13,
+      "IdVideo": 8,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 14,
+      "IdVideo": 9,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 15,
+      "IdVideo": 9,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 16,
+      "IdVideo": 10,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 17,
+      "IdVideo": 11,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 18,
+      "IdVideo": 12,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 19,
+      "IdVideo": 12,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 20,
+      "IdVideo": 13,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 21,
+      "IdVideo": 14,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 22,
+      "IdVideo": 14,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 23,
+      "IdVideo": 15,
+      "IdTag": 9
+    },
+    {
+      "IdVideoTag": 24,
+      "IdVideo": 16,
+      "IdTag": 4
+    },
+    {
+      "IdVideoTag": 25,
+      "IdVideo": 17,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 26,
+      "IdVideo": 18,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 27,
+      "IdVideo": 19,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 28,
+      "IdVideo": 20,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 29,
+      "IdVideo": 20,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 30,
+      "IdVideo": 21,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 31,
+      "IdVideo": 22,
+      "IdTag": 2
+    },
+    {
+      "IdVideoTag": 32,
+      "IdVideo": 23,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 33,
+      "IdVideo": 24,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 34,
+      "IdVideo": 25,
+      "IdTag": 9
+    },
+    {
+      "IdVideoTag": 35,
+      "IdVideo": 26,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 36,
+      "IdVideo": 27,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 37,
+      "IdVideo": 28,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 38,
+      "IdVideo": 28,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 39,
+      "IdVideo": 29,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 40,
+      "IdVideo": 30,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 41,
+      "IdVideo": 31,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 42,
+      "IdVideo": 32,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 43,
+      "IdVideo": 33,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 44,
+      "IdVideo": 34,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 45,
+      "IdVideo": 35,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 46,
+      "IdVideo": 36,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 47,
+      "IdVideo": 37,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 48,
+      "IdVideo": 38,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 49,
+      "IdVideo": 39,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 50,
+      "IdVideo": 40,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 51,
+      "IdVideo": 41,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 52,
+      "IdVideo": 42,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 53,
+      "IdVideo": 43,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 54,
+      "IdVideo": 43,
+      "IdTag": 2
+    },
+    {
+      "IdVideoTag": 55,
+      "IdVideo": 44,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 56,
+      "IdVideo": 45,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 57,
+      "IdVideo": 46,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 58,
+      "IdVideo": 47,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 59,
+      "IdVideo": 47,
+      "IdTag": 7
+    },
+    {
+      "IdVideoTag": 60,
+      "IdVideo": 48,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 61,
+      "IdVideo": 49,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 62,
+      "IdVideo": 49,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 63,
+      "IdVideo": 50,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 64,
+      "IdVideo": 51,
+      "IdTag": 7
+    },
+    {
+      "IdVideoTag": 65,
+      "IdVideo": 52,
+      "IdTag": 7
+    },
+    {
+      "IdVideoTag": 66,
+      "IdVideo": 53,
+      "IdTag": 7
+    },
+    {
+      "IdVideoTag": 67,
+      "IdVideo": 54,
+      "IdTag": 10
+    },
+    {
+      "IdVideoTag": 68,
+      "IdVideo": 55,
+      "IdTag": 10
+    },
+    {
+      "IdVideoTag": 69,
+      "IdVideo": 56,
+      "IdTag": 7
+    },
+    {
+      "IdVideoTag": 70,
+      "IdVideo": 57,
+      "IdTag": 7
+    },
+    {
+      "IdVideoTag": 71,
+      "IdVideo": 58,
+      "IdTag": 7
+    },
+    {
+      "IdVideoTag": 72,
+      "IdVideo": 59,
+      "IdTag": 7
+    },
+    {
+      "IdVideoTag": 73,
+      "IdVideo": 60,
+      "IdTag": 7
+    },
+    {
+      "IdVideoTag": 74,
+      "IdVideo": 61,
+      "IdTag": 7
+    },
+    {
+      "IdVideoTag": 75,
+      "IdVideo": 62,
+      "IdTag": 7
+    },
+    {
+      "IdVideoTag": 76,
+      "IdVideo": 63,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 77,
+      "IdVideo": 63,
+      "IdTag": 7
+    },
+    {
+      "IdVideoTag": 78,
+      "IdVideo": 64,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 79,
+      "IdVideo": 64,
+      "IdTag": 7
+    },
+    {
+      "IdVideoTag": 80,
+      "IdVideo": 65,
+      "IdTag": 7
+    },
+    {
+      "IdVideoTag": 81,
+      "IdVideo": 66,
+      "IdTag": 7
+    },
+    {
+      "IdVideoTag": 82,
+      "IdVideo": 67,
+      "IdTag": 7
+    },
+    {
+      "IdVideoTag": 83,
+      "IdVideo": 68,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 84,
+      "IdVideo": 69,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 85,
+      "IdVideo": 70,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 86,
+      "IdVideo": 71,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 87,
+      "IdVideo": 72,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 88,
+      "IdVideo": 73,
+      "IdTag": 2
+    },
+    {
+      "IdVideoTag": 89,
+      "IdVideo": 74,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 90,
+      "IdVideo": 75,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 91,
+      "IdVideo": 76,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 92,
+      "IdVideo": 77,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 93,
+      "IdVideo": 78,
+      "IdTag": 2
+    },
+    {
+      "IdVideoTag": 94,
+      "IdVideo": 79,
+      "IdTag": 2
+    },
+    {
+      "IdVideoTag": 95,
+      "IdVideo": 80,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 96,
+      "IdVideo": 81,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 97,
+      "IdVideo": 82,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 98,
+      "IdVideo": 83,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 99,
+      "IdVideo": 84,
+      "IdTag": 8
+    },
+    {
+      "IdVideoTag": 100,
+      "IdVideo": 85,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 101,
+      "IdVideo": 86,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 102,
+      "IdVideo": 87,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 103,
+      "IdVideo": 88,
+      "IdTag": 10
+    },
+    {
+      "IdVideoTag": 104,
+      "IdVideo": 89,
+      "IdTag": 9
+    },
+    {
+      "IdVideoTag": 105,
+      "IdVideo": 90,
+      "IdTag": 9
+    },
+    {
+      "IdVideoTag": 106,
+      "IdVideo": 91,
+      "IdTag": 9
+    },
+    {
+      "IdVideoTag": 107,
+      "IdVideo": 92,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 108,
+      "IdVideo": 93,
+      "IdTag": 9
+    },
+    {
+      "IdVideoTag": 109,
+      "IdVideo": 94,
+      "IdTag": 9
+    },
+    {
+      "IdVideoTag": 110,
+      "IdVideo": 95,
+      "IdTag": 9
+    },
+    {
+      "IdVideoTag": 111,
+      "IdVideo": 96,
+      "IdTag": 9
+    },
+    {
+      "IdVideoTag": 112,
+      "IdVideo": 97,
+      "IdTag": 9
+    },
+    {
+      "IdVideoTag": 113,
+      "IdVideo": 97,
+      "IdTag": 10
+    },
+    {
+      "IdVideoTag": 114,
+      "IdVideo": 98,
+      "IdTag": 9
+    },
+    {
+      "IdVideoTag": 115,
+      "IdVideo": 98,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 116,
+      "IdVideo": 99,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 117,
+      "IdVideo": 100,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 118,
+      "IdVideo": 101,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 119,
+      "IdVideo": 102,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 120,
+      "IdVideo": 103,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 121,
+      "IdVideo": 104,
+      "IdTag": 1
+    },
+    {
+      "IdVideoTag": 122,
+      "IdVideo": 104,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 123,
+      "IdVideo": 105,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 124,
+      "IdVideo": 106,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 125,
+      "IdVideo": 107,
+      "IdTag": 10
+    },
+    {
+      "IdVideoTag": 126,
+      "IdVideo": 108,
+      "IdTag": 10
+    },
+    {
+      "IdVideoTag": 127,
+      "IdVideo": 109,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 128,
+      "IdVideo": 110,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 129,
+      "IdVideo": 111,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 130,
+      "IdVideo": 112,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 131,
+      "IdVideo": 113,
+      "IdTag": 8
+    },
+    {
+      "IdVideoTag": 132,
+      "IdVideo": 114,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 133,
+      "IdVideo": 115,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 134,
+      "IdVideo": 116,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 135,
+      "IdVideo": 117,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 136,
+      "IdVideo": 118,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 137,
+      "IdVideo": 119,
+      "IdTag": 2
+    },
+    {
+      "IdVideoTag": 138,
+      "IdVideo": 120,
+      "IdTag": 8
+    },
+    {
+      "IdVideoTag": 139,
+      "IdVideo": 121,
+      "IdTag": 3
+    },
+    {
+      "IdVideoTag": 140,
+      "IdVideo": 122,
+      "IdTag": 10
+    },
+    {
+      "IdVideoTag": 141,
+      "IdVideo": 123,
+      "IdTag": 8
+    },
+    {
+      "IdVideoTag": 142,
+      "IdVideo": 124,
+      "IdTag": 8
+    },
+    {
+      "IdVideoTag": 143,
+      "IdVideo": 125,
+      "IdTag": 8
+    },
+    {
+      "IdVideoTag": 144,
+      "IdVideo": 126,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 145,
+      "IdVideo": 127,
+      "IdTag": 4
+    },
+    {
+      "IdVideoTag": 146,
+      "IdVideo": 128,
+      "IdTag": 8
+    },
+    {
+      "IdVideoTag": 147,
+      "IdVideo": 129,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 148,
+      "IdVideo": 130,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 149,
+      "IdVideo": 131,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 150,
+      "IdVideo": 132,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 151,
+      "IdVideo": 133,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 152,
+      "IdVideo": 134,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 153,
+      "IdVideo": 135,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 154,
+      "IdVideo": 136,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 155,
+      "IdVideo": 137,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 156,
+      "IdVideo": 138,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 157,
+      "IdVideo": 139,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 158,
+      "IdVideo": 140,
+      "IdTag": 11
+    },
+    {
+      "IdVideoTag": 159,
+      "IdVideo": 141,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 160,
+      "IdVideo": 142,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 161,
+      "IdVideo": 143,
+      "IdTag": 5
+    },
+    {
+      "IdVideoTag": 162,
+      "IdVideo": 144,
+      "IdTag": 6
+    },
+    {
+      "IdVideoTag": 163,
+      "IdVideo": 145,
+      "IdTag": 6
+    },
+    {
+      "IdVideoTag": 164,
+      "IdVideo": 146,
+      "IdTag": 6
+    },
+    {
+      "IdVideoTag": 165,
+      "IdVideo": 147,
+      "IdTag": 6
+    },
+    {
+      "IdVideoTag": 166,
+      "IdVideo": 148,
+      "IdTag": 9
+    },
+    {
+      "IdVideoTag": 167,
+      "IdVideo": 149,
+      "IdTag": 6
+    },
+    {
+      "IdVideoTag": 168,
+      "IdVideo": 150,
+      "IdTag": 6
+    },
+    {
+      "IdVideoTag": 169,
+      "IdVideo": 151,
+      "IdTag": 9
+    },
+    {
+      "IdVideoTag": 170,
+      "IdVideo": 152,
+      "IdTag": 6
+    },
+    {
+      "IdVideoTag": 171,
+      "IdVideo": 153,
+      "IdTag": 6
+    },
+    {
+      "IdVideoTag": 172,
+      "IdVideo": 154,
+      "IdTag": 6
+    },
+    {
+      "IdVideoTag": 173,
+      "IdVideo": 155,
+      "IdTag": 6
+    }
+  ]
+}
